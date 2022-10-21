@@ -1,0 +1,7 @@
+name: dbx
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dbx
+  - databricks-cli
